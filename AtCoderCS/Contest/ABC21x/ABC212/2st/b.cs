@@ -1,0 +1,6 @@
+string[] inputs = Console.ReadLine();
+
+
+
+
+
